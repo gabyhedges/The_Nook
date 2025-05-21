@@ -191,7 +191,9 @@ header {
 }
 
 .navbar {
-  
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  padding: 10px 20px;
   display: flex;
     text-decoration: none;
 
