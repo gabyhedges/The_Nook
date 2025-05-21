@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-# Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://github.com/gabyhedges/The_Nook/edit/main/sitemap.xml
